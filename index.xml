@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Діалог з собою</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Діалог з собою</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>uk</language>
+    <lastBuildDate>Mon, 15 Apr 2019 12:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Андрій Дутчак</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 15 Apr 2019 12:00:00 +0300</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Test</description>
+    </item>
+    
+    <item>
+      <title>Про субєктивність смерті</title>
+      <link>https://example.com/posts/2019-01-10/</link>
+      <pubDate>Thu, 10 Jan 2019 17:51:59 +0300</pubDate>
+      
+      <guid>https://example.com/posts/2019-01-10/</guid>
+      <description>Колись у мене була фобія: я боявся смерті. Можливо, слово «боявся» тут не дуже пасує і краще було б вжити «остерігався», але ця публікація не про слова та поняття, а про смерть, як феномен і його суб’єктивну складову.</description>
+    </item>
+    
+    <item>
+      <title>Дитяча історія у домі на піску</title>
+      <link>https://example.com/posts/2018-12-01/</link>
+      <pubDate>Sat, 01 Dec 2018 17:51:59 +0300</pubDate>
+      
+      <guid>https://example.com/posts/2018-12-01/</guid>
+      <description>В залі поруч припинись танці і співи. Діти обсіли лавки під стіною і розповідають одне одному казки. Я сідаю на низенькому кріселку і слухаю разом з ними.</description>
+    </item>
+    
+    <item>
+      <title>Про час і рішучість</title>
+      <link>https://example.com/posts/2018-11-27/</link>
+      <pubDate>Tue, 27 Nov 2018 17:51:59 +0300</pubDate>
+      
+      <guid>https://example.com/posts/2018-11-27/</guid>
+      <description>26 листопада 2018 року Верховна Рада України затвердила указ Президента про введення воєнного стану з 28 листопада. Воєнний стан передбачає обмеження певних конституційних свобод на території суміжних з Росією областей, але, наразі, не впливає на терміни проведення чергових виборів Президента України (весна 2019 року).</description>
+    </item>
+    
+    <item>
+      <title>Російська модель пропаганди</title>
+      <link>https://example.com/posts/2018-01-28/</link>
+      <pubDate>Sun, 28 Jan 2018 17:51:59 +0300</pubDate>
+      
+      <guid>https://example.com/posts/2018-01-28/</guid>
+      <description>У 2016 році співробітники корпорації RAND Крістофер Пол (Christopher Paul) та Міріам Метьюз (Miriam Matthews) підготували невеликий експертний огляд моделі російської пропаганди, яку вони назвали «Пожежний шланг зі струменем брехні».</description>
+    </item>
+    
+    <item>
+      <title>Гарантований мінімальний прибуток і трохи цифр для України</title>
+      <link>https://example.com/posts/2017-09-05/</link>
+      <pubDate>Tue, 05 Sep 2017 17:51:59 +0300</pubDate>
+      
+      <guid>https://example.com/posts/2017-09-05/</guid>
+      <description>Тема гарантованого мінімального прибутку вже ось кілька років не сходить з дискусійної платформи в Європейському Союзі. Спершу Фінляндія вирішила провести експеримент над власними безробітними (і таки проводить його).</description>
+    </item>
+    
+    <item>
+      <title>Як знайти автора роздрукованого документу</title>
+      <link>https://example.com/posts/2017-06-06/</link>
+      <pubDate>Tue, 06 Jun 2017 17:51:59 +0300</pubDate>
+      
+      <guid>https://example.com/posts/2017-06-06/</guid>
+      <description>Сьогодні стало дуже модно боятись різного роду ФСБ/NSA/СБУ та інших спеціальних служб світу цього. В результаті маємо параною рядових юзерів щодо користування тими чи іншими сервісами, соціальними мережами, мобільними пристроями.</description>
+    </item>
+    
+    <item>
+      <title>Недолік Facebook №0</title>
+      <link>https://example.com/posts/2017-03-19/</link>
+      <pubDate>Sun, 19 Mar 2017 17:51:59 +0300</pubDate>
+      
+      <guid>https://example.com/posts/2017-03-19/</guid>
+      <description>Сьогодні в скромному чатику Telegram відбулась невеличка дискусія стосовно Vk, Fb, їхніх плюсів та мінусів у порівнянні один з одним. За результатом цієї дискусії Юліан написав хороший пост, який ви можете переглянути за цим посиланням.</description>
+    </item>
+    
+    <item>
+      <title>Етико-моральнісні та правові аспекти роботизації Збройних Сил</title>
+      <link>https://example.com/posts/2017-03-07/</link>
+      <pubDate>Tue, 07 Mar 2017 17:51:59 +0300</pubDate>
+      
+      <guid>https://example.com/posts/2017-03-07/</guid>
+      <description>Наша дорога редакція колись писали про світовий дискурс довкола роботизації армії і моральні аспекти цього процесу. Перші паростки цієї дискусії пробились і в Україні.</description>
+    </item>
+    
+    <item>
+      <title>Російська війна «нового покоління»: Теорія, Практика і Уроки для Стратегії США</title>
+      <link>https://example.com/posts/2017-02-22/</link>
+      <pubDate>Wed, 22 Feb 2017 17:51:59 +0300</pubDate>
+      
+      <guid>https://example.com/posts/2017-02-22/</guid>
+      <description>Російська нетрадиційна стратегія ведення бойових дій, названа аналітиками як стратегія «нового покоління», акцентує на психологічних та масових аспектах військового конфлікту більше, аніж стратегії будь-яких їхніх геополітичних партнерів чи конкурентів.</description>
+    </item>
+    
+    <item>
+      <title>Тім О’Рейлі: що нам робити з Трампом</title>
+      <link>https://example.com/posts/2016-11-12/</link>
+      <pubDate>Sat, 12 Nov 2016 17:51:59 +0300</pubDate>
+      
+      <guid>https://example.com/posts/2016-11-12/</guid>
+      <description>Сьогодні на Медіумі вийшла дуже хороша стаття засновника і CEO компанії O’Reilly Media під назвою “How We Fight”. Я вирішив перекласти найцікавіший, на мою думку, уривок з публікації.</description>
+    </item>
+    
+    <item>
+      <title>Маленький брудний секрет Інтернету речей</title>
+      <link>https://example.com/posts/2016-04-18/</link>
+      <pubDate>Mon, 18 Apr 2016 17:51:59 +0300</pubDate>
+      
+      <guid>https://example.com/posts/2016-04-18/</guid>
+      <description>Рік тому був створений екаунт під назвою «Інтернет лайна» і перший його допис розпочався із жарту: «Я багато чув про з’єднані з інтернетом прості пристрої, але всі звучать як жахливі ідеї».</description>
+    </item>
+    
+    <item>
+      <title>Уберифікація сфери послуг в США</title>
+      <link>https://example.com/posts/2016-03-29/</link>
+      <pubDate>Tue, 29 Mar 2016 17:51:59 +0300</pubDate>
+      
+      <guid>https://example.com/posts/2016-03-29/</guid>
+      <description>З минулої осені, відколи я почав працювати в компанії RRE Ventures, я витратив чимало часу досліджуючи мобільні сервіси, що надають послуги на вимогу користувачів за допомогою, грубо кажучи, натискання однієї кнопки.</description>
+    </item>
+    
+    <item>
+      <title>Інформаційна сфера споживача контенту</title>
+      <link>https://example.com/posts/2016-02-29/</link>
+      <pubDate>Mon, 29 Feb 2016 17:51:59 +0300</pubDate>
+      
+      <guid>https://example.com/posts/2016-02-29/</guid>
+      <description>В епоху розвитку мережі Інтернет та переходу медіа з реального у віртуальне середовище кількість джерел інформації постійно збільшується і пересічний користувач має чималий вибір.</description>
+    </item>
+    
+    <item>
+      <title>Вплив споживача на систему масової комунікації</title>
+      <link>https://example.com/posts/2016-02-25/</link>
+      <pubDate>Thu, 25 Feb 2016 17:51:59 +0300</pubDate>
+      
+      <guid>https://example.com/posts/2016-02-25/</guid>
+      <description>В період розквіту засобів масової інформації побутує думка, що медіа відіграють значну, якщо не найзначнішу роль у формуванні людини як особистості та як частинки соціуму.</description>
+    </item>
+    
+  </channel>
+</rss>
